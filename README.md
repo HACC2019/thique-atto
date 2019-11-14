@@ -8,3 +8,14 @@ Establish a dashboard/landing page that accurately keeps track of various inform
 - pandas
 - plotly
 
+# Installatin Instructions
+
+pip install flask
+pip install plotly
+pip install pandas
+pip install flask_googlemaps
+
+-If python3 is not set as default in path then run,
+
+python3 app.py
+
