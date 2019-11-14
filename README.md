@@ -10,7 +10,7 @@ Establish a dashboard/landing page that accurately keeps track of various inform
 
 # Installation Instructions
 
-1. If you do not have Python yet installed on your computer, navigate to https://www.python.org/downloads/ and choose the updated version of Python. 
+1. If you do not have Python yet installed on your computer, navigate to https://www.python.org/downloads/ and choose the updated version of Python (Python 3). 
 2. Clone/download this repository
 3. Navigate to 'thique-atto' directory in your terminal of choice
 
@@ -26,7 +26,7 @@ virtualenv env
 source venv/bin/actiave
 ```
 
-5b.Otherwise run:
+5b. Otherwise run:
 ```
 venv\Scripts\activate 
 ```
