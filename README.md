@@ -8,7 +8,7 @@ Establish a dashboard/landing page that accurately keeps track of various inform
 - pandas
 - plotly
 
-# Installatin Instructions
+# Installation Instructions
 ```
 pip install flask
 pip install plotly
